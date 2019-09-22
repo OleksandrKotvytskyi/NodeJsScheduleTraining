@@ -1,0 +1,51 @@
+{   
+    "faculties" : [{
+        "id" : "0",
+        "name" : "FICT",
+        "groups" : [{
+            "id" : "0",
+            "name" : "PI-45",
+            "course" : "1"
+        }, {
+            "id" : "1",
+            "name" : "PI-46",
+            "course" : "2"
+        }, {
+            "id" : "2",
+            "name" : "PI-47",
+            "course" : "2"
+        }, {
+            "id" : "3",
+            "name" : "PI-48",
+            "course" : "4"
+        }, {
+            "id" : "4",
+            "name" : "PI-49",
+            "course" : "3"
+        }]
+    }, {
+        "id" : "1",
+        "name" : "FOF",
+        "groups" : [{
+            "id" : "0",
+            "name" : "FBS-1",
+            "course" : "1"
+        }, {
+            "id" : "1",
+            "name" : "FBS-2",
+            "course" : "2"
+        }, {
+            "id" : "2",
+            "name" : "FBS-3",
+            "course" : "3"
+        }, {
+            "id" : "3",
+            "name" : "FBS-4",
+            "course" : "3"
+        }, {
+            "id" : "4",
+            "name" : "FBS-5",
+            "course" : "4"
+        }]
+    }]
+}
